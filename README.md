@@ -37,4 +37,6 @@ Der Workflow `.github/workflows/build.yml` macht dasselbe und lädt bei einem Ta
 
 ## Status bei Vaultwarden
 
-- Fehlerbericht und Pull-Request: werden nachgetragen.
+- Fehlerbericht: [dani-garcia/vaultwarden#7794](https://github.com/dani-garcia/vaultwarden/issues/7794)
+- Korrektur: [dani-garcia/vaultwarden#7795](https://github.com/dani-garcia/vaultwarden/pull/7795)
+- Digest `1.37.3-dt1`: `sha256:3d61d43e6dcad61d1da8f1b7d3693e913421a78fda4e941ced07fff698047ce1`
